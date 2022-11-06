@@ -7,6 +7,7 @@ In this project, Group 4 will be analyzing Yelp data from metropolitan areas in 
   - Are there different prices that certain age groups are willing to pay?
 
 ## Sources
+https://www.yelp.com/dataset
 
 ## Machine  Learning
-
+For this analysis, we will be utilizing supervised machine learning via a linear or logisitic regression model.
