@@ -6,7 +6,7 @@ In this project, Group 4 will be analyzing Yelp data from metropolitan areas in 
   - What cuisines have the highest overall ratings?
   - Are there different prices that certain age groups are willing to pay?
  
- We are currently exploring other questions, such as:
+ We are currently exploring other questions, such as
   - Where is the highest count of reviews?
   - What price point has the highest vs the lowest count of reviews?
   - Is there are category with a higher or lower count of reviews?
