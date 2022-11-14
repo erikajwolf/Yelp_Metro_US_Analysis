@@ -18,3 +18,4 @@ https://www.yelp.com/dataset
 For this analysis, we will be utilizing supervised machine learning via a linear or logisitic regression model.
 
 ## Tableau
+https://public.tableau.com/app/profile/erika.wolf/viz/YelpMetroAnalysis/CountofRatings
