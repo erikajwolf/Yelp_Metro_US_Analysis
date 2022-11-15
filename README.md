@@ -10,6 +10,8 @@ In this project, Group 4 will be analyzing Yelp data from metropolitan areas in 
   - Where is the highest count of reviews?
   - What price point has the highest vs the lowest count of reviews?
   - Is there are category with a higher or lower count of reviews?
+  - What determines the number of stars? (Machine Learning)
+  - What determines the price? (Machine Learning)
 
 ## Sources
 https://www.yelp.com/dataset
