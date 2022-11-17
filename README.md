@@ -13,6 +13,7 @@ In this project, Group 4 will be analyzing Yelp data from metropolitan areas in 
   - What determines the number of stars? (Machine Learning)
   - What determines the price? (Machine Learning)
   - Median income in different areas for visualization on determinates of price. Histogram, box plot. histogram - how price/income is distributed. box plot to show range of incomes.
+  - stacked bar graph for combined age income distribution 
 
 ## Sources
 https://www.yelp.com/dataset
