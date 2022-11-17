@@ -1,5 +1,5 @@
-Illinois,New York,Washington
-179566,201346,119196
-1671363,2389461,1100204
-1816935,2911618,1045903
-1323777,2150241,756952
+Label (Grouping),Illinois,New York,Washington
+    Householder under 25 years:,179566,201346,119196
+    Householder 25 to 44 years:,1671363,2389461,1100204
+    Householder 45 to 64 years:,1816935,2911618,1045903
+    Householder 65 years and over:,1323777,2150241,756952
