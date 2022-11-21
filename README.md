@@ -79,7 +79,7 @@ $                 | Under $10
 
 
 
-Given these values for each \$\, it can be assumed with the income level distributions and age group distributions on the population analysis that a majority of the restuarants being evaluatd will be in the $$ range. And, according to this table we can see that is in fact the case for the restuarants being analyzed.
+Given these values for each dollar sign it can be assumed with the income level distributions and age group distributions on the population analysis that a majority of the restuarants being evaluatd will be in the $$ range. And, according to this table we can see that is in fact the case for the restuarants being analyzed.
 
 From this image, we can assume that the largest category will be Italian food based on the reviews recorded for this cuisine.
 
