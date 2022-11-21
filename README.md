@@ -1,5 +1,4 @@
 # Yelp Metro US Analysis
-
 ## Objective
 The objective of this project is to understand the different variables that impact the price for a given restaurant. To capture the differing demographic tendencies we looked at Washington State for the west coast, Illinois for the midwest and New York for the east coast. The project was aimed to understand how different demographics impacted the pricing for restaurants in their respective metropolitan areas.
 
@@ -121,4 +120,5 @@ To execute the API, parsing, cleaning and modeling we used the following python 
 * Census Data: <https://data.census.gov/table?q=+age+and+income&g=0400000US17,36,53>
 * Zip Code Database:  <https://www.unitedstateszipcodes.org/zip-code-database/> 
 * Metropolitan Areas: <https://www2.census.gov/geo/pdfs/reference/GARM/Ch13GARM.pdf>
+
 
