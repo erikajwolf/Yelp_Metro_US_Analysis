@@ -150,7 +150,7 @@ To execute the API, parsing, cleaning and modeling we used the following python 
     * classification_report_imbalanced
 * Imblanced Learn
     * BalancedRandomForestClassifier
-* Tableau
+* Tableau (dashboarding)
 
 
 ### Sources:   
